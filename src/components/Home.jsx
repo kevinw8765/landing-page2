@@ -13,7 +13,7 @@ const Home = () => {
                     I'm an Aspiring Software Engineer
                 </h2>
                 <p className = "text-gray-500 py-4 max-w-md">
-                    I have 0 years of experience building and designing software at RU.
+                    I am a student at RU looking to gain experience in building and designing software.
                     I am interested in web development technologies like React, Tailwind CSS, and JavaScript.
                 </p>
 
